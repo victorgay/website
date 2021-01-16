@@ -78,7 +78,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: victorgay_cv.pdf
+   link: media/victorgay_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
