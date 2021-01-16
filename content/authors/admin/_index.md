@@ -60,18 +60,18 @@ social:
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0001-9912-3841
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/3256702/victor-gay/
-- icon: ideas-repec
-  icon_pack: ai
-  link: https://ideas.repec.org/f/pga905.html
-- icon: academia
-  icon_pack: ai
-  link: https://tse-fr.academia.edu/VictorGay
-- icon: ssrn
-  icon_pack: ai
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2662864 
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/3256702/victor-gay/
+#- icon: ideas-repec
+#  icon_pack: ai
+#  link: https://ideas.repec.org/f/pga905.html
+#- icon: academia
+#  icon_pack: ai
+#  link: https://tse-fr.academia.edu/VictorGay
+#- icon: ssrn
+#  icon_pack: ai
+#  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2662864 
   
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
