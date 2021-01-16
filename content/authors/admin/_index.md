@@ -6,12 +6,14 @@ title: Victor Gay
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor at Toulouse School of Economics
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Toulouse School of Economics
   url: https://www.tse-fr.eu/people/victor-gay
+- name: Institute for Avanced Study in Toulouse
+  url: https://www.iast.fr/people/victor-gay
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
