@@ -57,9 +57,9 @@ social:
 - icon: hal
   icon_pack: ai
   link: https://cv.archives-ouvertes.fr/victor-gay
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0001-9912-3841
+#- icon: orcid
+#  icon_pack: ai
+#  link: http://orcid.org/0000-0001-9912-3841
 #- icon: publons
 #  icon_pack: ai
 #  link: https://publons.com/researcher/3256702/victor-gay/
