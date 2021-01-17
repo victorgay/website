@@ -30,7 +30,7 @@ tags:
 
 featured: false
 
-# links:
+links:
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523127
 url_doi: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
