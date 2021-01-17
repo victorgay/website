@@ -17,7 +17,8 @@ organizations:
 - name: UT1
   url: https://www.ut-capitole.fr/
 affiliations :
-- name : ["Another university", "Institute A", "Institute B"]
+- name : Another university
+- url: https://www.ut-capitole.fr/
   
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant professor at Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST), University of Toulouse 1 Capitole.
