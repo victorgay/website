@@ -11,7 +11,7 @@ weight: 90
 
 title: Publications
 subtitle: ''
-
+publication_type = "2"
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
