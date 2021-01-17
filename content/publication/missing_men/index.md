@@ -31,13 +31,16 @@ tags:
 featured: false
 
 links:
+- name: Article
+  url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
+- name: Appendix
+  url: https://uwpress.wisc.edu/journals/pdfs/0419-10151R1_supp.pdf
+- name: Data and Code
+  url: https://doi.org/10.7910/DVN/AP1HZ8
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523127
-url_doi: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
-url_appendix: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Online%20Appendix.pdf
-url_dataset: https://doi.org/10.7910/DVN/AP1HZ8
-url_pdf: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
-url_abstract: bla
+- name: DOI
+  url: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
 url_project: ''
 url_slides: ''
 url_source: ''
