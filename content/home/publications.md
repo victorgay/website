@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Articles
+widget_id: publication
 weight: 90
 title: Articles
 subtitle: ""
