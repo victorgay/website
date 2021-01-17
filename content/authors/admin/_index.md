@@ -16,7 +16,7 @@ organizations:
   url: https://www.iast.fr/people/victor-gay
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Assistant professor at Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST), University of Toulouse 1 Capitole.
 
 # Interests to show in About widget
 interests:
@@ -87,6 +87,6 @@ email: ""
 highlight_name: false
 ---
 
-Victor Gay is an Assistant Professor at ...
+Since 2018, I am an Assistant Professor at the Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST) of the University of Toulouse 1 Capitole.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
