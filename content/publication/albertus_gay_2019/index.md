@@ -27,7 +27,7 @@ featured: false
 
 links:
 - name: Article
-  url: "albertus_gay_2019_ecpo.pdf"
+  url: {{% "albertus_gay_2019_ecpo.pdf" "newtab" %}}
 - name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
 - name: Data and Code
