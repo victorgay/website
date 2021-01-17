@@ -30,8 +30,10 @@ featured: false
 links:
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523127
+- name: Appendix
+  url: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
 url_doi: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
-url_appendix: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Online%20Appendix.pdf
+url_appendix: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
 url_dataset: https://doi.org/10.7910/DVN/AP1HZ8
 url_pdf: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
 url_abstract: bla
