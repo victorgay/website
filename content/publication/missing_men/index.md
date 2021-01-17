@@ -31,9 +31,11 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_doi: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
+ - name: Article
+   url: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
+ - name: Appendix
+   url: https://uwpress.wisc.edu/journals/pdfs/0419-10151R1_supp.pdf
+url_doi: 
 url_appendix: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Online%20Appendix.pdf
 url_dataset: https://doi.org/10.7910/DVN/AP1HZ8
 url_poster: ''
