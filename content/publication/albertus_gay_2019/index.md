@@ -4,8 +4,8 @@ authors:
 - admin
 - Michael Albertus
 
-date: "2020-06-10T00:00:00Z"
-doi: "10.3368/jhr.57.4.0419-10151R1"
+date: "2019-03-00T00:00:00Z"
+doi: "10.1111/ecpo.12120"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
