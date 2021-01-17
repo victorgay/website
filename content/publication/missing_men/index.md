@@ -26,6 +26,8 @@ tags:
 - Labor economics
 - Female labor
 - World War I
+- France
+- Third Republic
 
 featured: false
 
