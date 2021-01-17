@@ -27,7 +27,7 @@ featured: false
 
 links:
 - name: Article
-  url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
+  url: "albertus_gay_2019_ecpo.pdf"
 - name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
 - name: Data and Code
