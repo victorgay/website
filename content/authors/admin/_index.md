@@ -87,6 +87,6 @@ email: ""
 highlight_name: false
 ---
 
-Since 2018, I am an Assistant Professor at the Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST) of the University of Toulouse 1 Capitole.
+Since 2018, I am an Assistant Professor at the [Toulouse School of Economics](https://www.tse-fr.eu/people/victor-gay) (TSE) and at the [Institute for Advanced Study in Toulouse](https://www.iast.fr/people/victor-gay) (IAST) of the [University of Toulouse 1 Capitole](https://www.ut-capitole.fr/).
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
