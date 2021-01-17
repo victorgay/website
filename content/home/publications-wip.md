@@ -12,17 +12,6 @@ weight: 80
 title: Working Papers
 subtitle: ''
 
-# Filter by publication type.
-# -1: Any
-#  0: Uncategorized
-#  1: Conference proceedings
-#  2: Journal
-#  3: Work in progress
-#  4: Technical report
-#  5: Book
-#  6: Book chapter
-publication_type = "3"
-
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -36,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: "4"
     author: ''
     exclude_featured: true
 design:
