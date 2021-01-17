@@ -13,7 +13,7 @@ date: "2020-06-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Human Resources, 57*(4)"
+publication: "*Journal of Human Resources, 57*(4), forthcoming"
 publication_short: ""
 
 abstract: Using spatial variation in World War I military fatalities in France, we show that the scarcity of men due to the war generated an upward shift in female labor force participation that persisted throughout the interwar period. Available data suggest that increased female labor supply accounts for this result. In particular, deteriorated marriage market conditions for single women and negative income shocks to war widows induced many of these women to enter the labor force after the war. In contrast, demand factors such as substitution toward female labor to compensate for the scarcity of male labor were of second-order importance.
