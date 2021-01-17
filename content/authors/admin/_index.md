@@ -16,7 +16,8 @@ organizations:
   url: https://www.iast.fr/people/victor-gay
 - name: UT1
   url: https://www.ut-capitole.fr/
-affiliations = ["Another university", "Institute A", "Institute B"]
+affiliations :
+- name : ["Another university", "Institute A", "Institute B"]
   
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant professor at Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST), University of Toulouse 1 Capitole.
