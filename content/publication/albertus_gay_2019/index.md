@@ -17,7 +17,7 @@ publication_types: ["2"]
 publication: "*Economics & Politics, 31*(1)"
 publication_short: ""
 
-abstract: Despite received wisdom that long time horizons and formal institutions can induce private investment under dictatorship, there is substantial investment even in relatively unconstrained regimes. This paper provides a novel explanation for the puzzle of investment in these regimes: economic elites’ uncertainty over expected investment returns under plausible alternative authoritarian successors.
+abstract: Despite received wisdom that long time horizons and formal institutions can induce private investment under dictatorship, there is substantial investment even in relatively unconstrained regimes. 
 
 tags:
 - Economic history
