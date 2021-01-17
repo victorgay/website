@@ -5,7 +5,6 @@ authors:
 - Michael Albertus
 
 date: "2019-03-00T00:00:00Z"
-doi: "10.1111/ecpo.12120"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,15 +26,16 @@ tags:
 featured: false
 
 links:
-- name: HAL
-  url: https://hal.archives-ouvertes.fr/hal-02523127
+- name: Article
+  url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
 - name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
-url_doi: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
-url_appendix: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
-url_dataset: https://doi.org/10.7910/DVN/AP1HZ8
-url_pdf: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
-url_abstract: bla
+- name: Data and Code
+  url: https://doi.org/10.7910/DVN/SS3RF6
+- name: HAL
+  url: https://hal.archives-ouvertes.fr/hal-02523101
+- name: DOI
+  url: https://dx.doi.org/10.1111/ecpo.12120
 url_project: ''
 url_slides: ''
 url_source: ''
