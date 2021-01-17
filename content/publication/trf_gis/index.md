@@ -18,20 +18,19 @@ tags:
 - Historical GIS
 - Data paper
 - France
+- Third Republic
 
 featured: false
 
 links:
-- name: Article
-  url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
+- name: Working Paper
+  url: https://hal.archives-ouvertes.fr/hal-02951461
 - name: Appendix
-  url: https://uwpress.wisc.edu/journals/pdfs/0419-10151R1_supp.pdf
-- name: Data and Code
-  url: https://doi.org/10.7910/DVN/AP1HZ8
+  url: https://hal.archives-ouvertes.fr/hal-02951461/file/gay_2020_mapping_third_republic_supplementary_information.pdf
+- name: TRF-GIS Dataverse
+  url: https://dataverse.harvard.edu/dataverse/TRF-GIS
 - name: HAL
-  url: https://hal.archives-ouvertes.fr/hal-02523127
-- name: DOI
-  url: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
+  url: https://hal.archives-ouvertes.fr/hal-02951461
 url_project: ''
 url_slides: ''
 url_source: ''
