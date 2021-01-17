@@ -10,15 +10,12 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: TSE
+- name: Toulouse School of Economics
   url: https://www.tse-fr.eu/people/victor-gay
-- name: IAST
+- name: Institute for Advanced Study in Toulouse
   url: https://www.iast.fr/people/victor-gay
-- name: UT1
+- name: Université Toulouse 1 Capitole
   url: https://www.ut-capitole.fr/
-affiliations :
-- name : Another university
-- url: https://www.ut-capitole.fr/
   
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant professor at Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST), University of Toulouse 1 Capitole.
