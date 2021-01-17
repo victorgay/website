@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Working Papers"
-  url = "#publications-wip"
+  url = "#publications_wp"
   weight = 15
   
 [[main]]
