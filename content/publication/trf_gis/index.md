@@ -1,8 +1,7 @@
 ---
-title: "The Missing Men. World War I and Female Labor Force Participation"
+title: "bla"
 authors:
 - admin
-- Jörn Boehnke
 
 date: "2020-06-10T00:00:00Z"
 
