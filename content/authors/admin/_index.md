@@ -10,8 +10,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: TSE
-  url: https://www.tse-fr.eu/people/victor-gay
+- name: [TSE,IAST]
+  url: [https://www.tse-fr.eu/people/victor-gay,https://www.iast.fr/people/victor-gay]
 - name: IAST
   url: https://www.iast.fr/people/victor-gay
 - name: UT1
