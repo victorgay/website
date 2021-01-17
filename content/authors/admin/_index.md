@@ -24,6 +24,7 @@ bio: Assistant professor at Toulouse School of Economics (TSE) and at the Instit
 interests:
 - Economic history
 - Economics of culture
+- Labor economics
 - Political economy
 
 # Education to show in About widget
