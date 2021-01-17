@@ -15,7 +15,7 @@ date: "2018-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Review of Economics of the Household, 16*(4)"
+publication: "*Review of Economics of the Household, 16*(4), 879-909"
 publication_short: ""
 
 abstract: "Despite received wisdom that long time horizons and formal institutions can induce private investment under dictatorship, there is substantial investment even in relatively unconstrained regimes. This paper provides a novel explanation for the puzzle of investment in these regimes: economic elites’ uncertainty over expected investment returns under plausible alternative authoritarian successors. We construct a noisy signaling model that captures how uncertainty over which type of authoritarian successor will rule next and uncertainty in the truthfulness of policy promises made by potential autocratic successors might provide incentives for elite investment."
