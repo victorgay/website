@@ -5,7 +5,7 @@ authors:
 - Jörn Boehnke
 
 date: "2020-06-10T00:00:00Z"
-doi: "10.3368/jhr.57.4.0419-10151R1 "
+doi: "10.3368/jhr.57.4.0419-10151R1"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,9 +31,7 @@ tags:
 featured: false
 
 # links:
-# - name: Article
-#  url: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
-url_doi: ''
+url_doi: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
 url_appendix: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Online%20Appendix.pdf
 url_dataset: https://doi.org/10.7910/DVN/AP1HZ8
 url_poster: ''
@@ -61,5 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
