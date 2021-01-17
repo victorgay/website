@@ -1,8 +1,8 @@
 ---
-title: "The Missing Men. World War I and Female Labor Force Participation"
+title: "No Better Time Than Now. Future Uncertainty and Private Investment Under Dictatorship"
 authors:
 - admin
-- Jörn Boehnke
+- Michael Albertus
 
 date: "2020-06-10T00:00:00Z"
 doi: "10.3368/jhr.57.4.0419-10151R1"
