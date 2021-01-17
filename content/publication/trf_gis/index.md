@@ -11,20 +11,13 @@ date: "2020-10-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Human Resources, 57*(4), forthcoming"
-publication_short: ""
-
-abstract: Using spatial variation in World War I military fatalities in France, we show that the scarcity of men due to the war generated an upward shift in female labor force participation that persisted throughout the interwar period. Available data suggest that increased female labor supply accounts for this result. In particular, deteriorated marriage market conditions for single women and negative income shocks to war widows induced many of these women to enter the labor force after the war. In contrast, demand factors such as substitution toward female labor to compensate for the scarcity of male labor were of second-order importance.
-
-# Summary. An optional shortened abstract.
-summary: Using spatial variation in World War I military fatalities in France, we show that the scarcity of men due to the war generated an upward shift in female labor force participation that persisted throughout the interwar period. Available data suggest that increased female labor supply accounts for this result. In particular, deteriorated marriage market conditions for single women and negative income shocks to war widows induced many of these women to enter the labor force after the war. In contrast, demand factors such as substitution toward female labor to compensate for the scarcity of male labor were of second-order importance.
+abstract: "This article describes a comprehensive geographic information system of Third-Republic France: the TRF-GIS. It provides annual nomenclatures and shapefiles of administrative constituencies of metropolitan France from 1870 to 1940, encompassing general administrative constituencies (départements, arrondissements, cantons) as well as the most significant special administrative constituencies: military, judicial and penitentiary, electoral, academic, labor inspection, and ecclesiastical constituencies. It further proposes annual nomenclatures at the contemporaneous commune level that map each municipality into its corresponding administrative framework along with its population count. The 901 nomenclatures, 830 shapefiles, and complete reproduction material along with primary sources of the TRF-GIS database are available at https://dataverse.harvard.edu/dataverse/TRF-GIS."
 
 tags:
 - Economic history
-- Labor economics
-- Female labor
-- World War I
+- Historical GIS
+- Data paper
+- France
 
 featured: false
 
