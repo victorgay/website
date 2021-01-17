@@ -1,6 +1,5 @@
 ---
-title: "The Missing Men"
-subtitle: "World War I and Female Labor Force Participation"
+title: "The Missing Men. World War I and Female Labor Force Participation"
 authors:
 - admin
 - Jörn Boehnke
