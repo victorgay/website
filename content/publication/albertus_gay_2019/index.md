@@ -4,7 +4,7 @@ authors:
 - admin
 - Michael Albertus
 
-date: "2019-03-10T00:00:00Z"
+date: "2019-03-00T00:00:00Z"
 doi: "10.1111/ecpo.12120"
 
 # Publication type.
