@@ -17,7 +17,7 @@ publication_types: ["2"]
 publication: "*Economics & Politics, 31*(1)"
 publication_short: ""
 
-abstract: Using spatial variation in World War I military fatalities in France, we show that the scarcity of men due to the war generated an upward shift in female labor force participation that persisted throughout the interwar period. Available data suggest that increased female labor supply accounts for this result. In particular, deteriorated marriage market conditions for single women and negative income shocks to war widows induced many of these women to enter the labor force after the war. In contrast, demand factors such as substitution toward female labor to compensate for the scarcity of male labor were of second-order importance.
+abstract: Despite received wisdom that long time horizons and formal institutions can induce private investment under dictatorship, there is substantial investment even in relatively unconstrained regimes. This paper provides a novel explanation for the puzzle of investment in these regimes: economic elites’ uncertainty over expected investment returns under plausible alternative authoritarian successors. We construct a noisy signaling model that captures how uncertainty over which type of authoritarian successor will rule next and uncertainty in the truthfulness of policy promises made by potential autocratic successors might provide incentives for elite investment.
 
 tags:
 - Economic history
