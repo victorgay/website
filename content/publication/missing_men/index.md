@@ -7,9 +7,6 @@ authors:
 date: "2022"
 doi: "10.3368/jhr.57.4.0419-10151R1 "
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2022"
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
