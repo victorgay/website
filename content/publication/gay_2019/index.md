@@ -12,7 +12,7 @@ date: "2019-04-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cambridge: Cambridge University Press. Reviewed for EH.net."
+publication: "Cambridge: Cambridge University Press. Reviewed for EH.net"
 publication_short: ""
 
 tags:
