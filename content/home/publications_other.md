@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 title: Other Works
-subtitle: Conference Proceedings
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: "1"
+    publication_type: "0"
     author: ''
     exclude_featured: true
 design:
