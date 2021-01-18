@@ -1,10 +1,10 @@
 ---
-title: "TSE Inaugural Lecture 2020: What Can History Teach Us About the Potential Consequences of COVID-19? "
+title: Example dsds
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Toulouse School of Economics
+location: Wowchemy HQ
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "What can history teach us about the potential long-term consequences of COVID-19? In this lecture, Victor Gay discusses how past pandemics impacted individuals and societies over the long run, and which of their aspects can and cannot be a guide to understand the implications of the current crisis. "
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -59,3 +59,15 @@ slides: example
 projects:
 - internal-project
 ---
+
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
