@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name: Article
-  url: "gay_etal_2013_ael"
+  url: "gay_etal_2013_ael.pdf"
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523093
 - name: DOI
