@@ -35,6 +35,8 @@ links:
   url: https://hal.archives-ouvertes.fr/hal-02523093
 - name: DOI
   url: https://doi.org/10.1080/13504851.2012.714062
+- name: VOXeu
+  url: https://voxeu.org/article/language-matters-gender-grammar-and-observed-gender-discrimination
 url_project: ''
 url_slides: ''
 url_source: ''
