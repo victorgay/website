@@ -11,7 +11,7 @@ date: "2016-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In S.G. Roberts et al. (Eds.), *The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG 11)*, 1-8"
