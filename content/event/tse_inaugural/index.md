@@ -1,5 +1,6 @@
 ---
 title: TSE Inaugural Lecture 2020
+subtitle: What Can History Teach Us About the Potential Consequences of COVID-19?
 
 summary: What Can History Teach Us About the Potential Consequences of COVID-19?
 abstract: "What can history teach us about the potential long-term consequences of COVID-19? In this lecture, Victor Gay discusses how past pandemics impacted individuals and societies over the long run, and which of their aspects can and cannot be a guide to understand the implications of the current crisis. "
