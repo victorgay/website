@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name: Article
-  url: "EVOLANG_11_paper_120.pdf"
+  url: https://hal.archives-ouvertes.fr/hal-02523115/document
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523115
 - name: Conference
