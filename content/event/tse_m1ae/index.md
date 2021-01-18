@@ -2,11 +2,13 @@
 title: M1 Applied Econometrics
 subtitle: Credibility and Replicability in Economics
 
+summary: Credibility and Replicability in Economics
+
 date: "2020-09-29T13:00:00Z"
 date_end: "2020-10-06T15:00:00Z"
-all_day: false
+all_day: true
 
-authors: [admin]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
