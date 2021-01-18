@@ -1,28 +1,13 @@
 ---
 title: TSE Inaugural Lecture 2020
 
-event: What Can History Teach Us About the Potential Consequences of COVID-19?
-event_url: https://example.org
-
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
 summary: What Can History Teach Us About the Potential Consequences of COVID-19?
 abstract: "What can history teach us about the potential long-term consequences of COVID-19? In this lecture, Victor Gay discusses how past pandemics impacted individuals and societies over the long run, and which of their aspects can and cannot be a guide to understand the implications of the current crisis. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+date: "2020-09-07T13:00:00Z"
+all_day: true
 
 authors: []
 tags: []
