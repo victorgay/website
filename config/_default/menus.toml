@@ -22,6 +22,11 @@
   name = "Other Works"
   url = "#publications_other"
   weight = 30
+  
+[[main]]
+  name = "Dissertation"
+  url = "#publications_dissertation"
+  weight = 40
 
 [[main]]
   name = "Contact"
