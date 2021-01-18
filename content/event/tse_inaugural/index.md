@@ -8,7 +8,7 @@ date: "2020-09-07T13:00:00Z"
 all_day: true
 
 authors: [admin]
-tags: [Economic history]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
