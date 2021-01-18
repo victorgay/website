@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Article
+- name: Conference proceeding
   url: https://hal.archives-ouvertes.fr/hal-02523115/document
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523115
