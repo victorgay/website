@@ -1,5 +1,5 @@
 ---
-title: TSE Inaugural Lecture 2020: What Can History Teach Us About the Potential Consequences of COVID-19? 
+title: "TSE Inaugural Lecture 2020: What Can History Teach Us About the Potential Consequences of COVID-19? "
 
 event: Wowchemy Conference
 event_url: https://example.org
