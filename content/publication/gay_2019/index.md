@@ -27,7 +27,7 @@ links:
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02524006
 - name: Book
-  url: https://www.cambridge.org/core/books/gambling-on-war/8CA7E751C05F861C12FF66748F07591D
+  url: https://doi.org/10.1017/9781108600101
 url_slides: ''
 url_source: ''
 url_video: ''
