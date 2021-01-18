@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Article
+- name: Book chapter
   url: https://hal.archives-ouvertes.fr/hal-02523125/document
 - name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523125/file/language_historical_appendix_2016.pdf
