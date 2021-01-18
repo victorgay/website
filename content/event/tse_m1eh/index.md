@@ -13,7 +13,7 @@ featured: false
 
 links:
 - name: Slides coming soon
-  url: https://hal.archives-ouvertes.fr/hal-02959702
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
