@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: Article
+- name: Working paper
   url: "10.1.1.393.1923.pdf"
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523093
