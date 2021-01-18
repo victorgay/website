@@ -8,7 +8,7 @@ abstract: "What can history teach us about the potential long-term consequences 
 date: "2020-09-07T13:00:00Z"
 all_day: true
 
-authors: [admin]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
