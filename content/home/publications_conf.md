@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 title: Other Works
-subtitle: 'Conference Proceedings'
+subtitle: Conference Proceedings
 
 content:
   # Page type to display. E.g. post, talk, publication...
