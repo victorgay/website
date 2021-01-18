@@ -12,8 +12,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: What Can History Teach Us About the Potential Consequences of COVID-19?
+abstract: "What can history teach us about the potential long-term consequences of COVID-19? In this lecture, Victor Gay discusses how past pandemics impacted individuals and societies over the long run, and which of their aspects can and cannot be a guide to understand the implications of the current crisis. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
