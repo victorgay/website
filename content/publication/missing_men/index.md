@@ -38,6 +38,8 @@ links:
   url: https://uwpress.wisc.edu/journals/pdfs/0419-10151R1_supp.pdf
 - name: Data and Code
   url: https://doi.org/10.7910/DVN/AP1HZ8
+- name: Slides
+  url: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Slides.pdf
 - name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523127
 - name: DOI
