@@ -1,5 +1,5 @@
 ---
-title: "Comment la Grippe Espagnole a Augmenté la Méfiance"
+title: "Comment la grippe espagnole a augmenté la méfiance"
 authors:
 - admin
 
