@@ -12,7 +12,7 @@ date: "2020-05-08T00:00:00Z"
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Le Point - Phébé"
+publication: "*Le Point - Phébé*"
 publication_short: ""
 
 tags:
