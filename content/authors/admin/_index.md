@@ -94,4 +94,7 @@ Since 2018, I am an Assistant Professor at the [Toulouse School of Economics](ht
 
 During the academic year 2020-2021, I am the organizer of TSE's [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Seminar](https://www.tse-fr.eu/groups/behavior-institutions-and-development?tabs=5) and [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Workshop](https://sites.google.com/site/iebtse/) (with [A. Tapsoba](https://sites.google.com/view/augustintapsoba/home)), of the IAST [Epistemology Workshop](https://www.iast.fr/conferences/2021-what-are-we-doing-doing-research-interdisciplinary-perspective) (with [M. Derex](https://maximederex.weebly.com/)), of the [Big Data in Economic History Conference](https://www.iast.fr/conferences/2021-big-data-economic-history-conference) (with [M. Saleh](https://sites.google.com/site/mohamedsalehecon/home)), and of the [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences) (with [J. Peña](https://jorgeapenas.wordpress.com/)).
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/victorgay_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+
 <div style="text-align: right"> Last updated: January 2021 </div> 
