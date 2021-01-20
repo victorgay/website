@@ -1,5 +1,5 @@
 ---
-title: M1 Economic History
+title: Economic History (M1)
 
 date: "2020-10-07T13:00:00Z"
 date_end: "2020-12-02T15:00:00Z"
