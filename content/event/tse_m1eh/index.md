@@ -12,6 +12,8 @@ tags: []
 featured: false
 
 links:
+- name: Syllabus
+  url "Economic_History_M1_S1 2020-2021 TSE Syllabus.pdf"
 - name: Slides coming soon
   url: 
 url_code: ""
