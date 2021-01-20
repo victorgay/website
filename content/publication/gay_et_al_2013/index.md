@@ -14,7 +14,7 @@ date: "2013-09-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Economics Letters, 20*(5), 495-498"
+publication: "*Applied Economics Letters, 20*(5), 495-8"
 publication_short: ""
 
 abstract: "This article studies the determinants of gender political quota and enforcement sanctions, two key policy instruments for increasing female participation in politics. We find a novel empirical fact: language (the pervasiveness of gender distinctions in grammar) is the most significant related variable to quota adoption, more than traditional explanations such as economic development, political system and religion."
