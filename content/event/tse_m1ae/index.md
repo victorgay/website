@@ -1,5 +1,5 @@
 ---
-title: M1 Applied Econometrics
+title: Applied Econometrics (M1)
 subtitle: Credibility and Replicability in Economics
 
 summary: Credibility and Replicability in Economics
