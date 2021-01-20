@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Other Works
+title: Other Publications
 subtitle: ''
 
 content:
