@@ -13,7 +13,7 @@ date: "2017-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Journal of Political Science, 61*(3), 624-641"
+publication: "*American Journal of Political Science, 61*(3), 624-41"
 publication_short: ""
 
 abstract: "Influential recent scholarship assumes that authoritarian rulers act as perfect agents of economic elites, foreclosing the possibility that economic elites may at times prefer democracy absent a popular threat from below. Motivated by a puzzling set of democratic transitions, we relax this assumption and examine how elite uncertainty about dictatorship--a novel and generalizable causal mechanism impacting democratization--can induce elite support for democracy. We construct a noisy signaling model in which a potential autocrat attempts to convince economic elites that he will be a faithful partner should elites install him in power. The model generates clear predictions about how two major types of elite uncertainty—uncertainty in a potential autocratic successor's policies produced by variance in the pool of would‐be dictator types, and uncertainty in the truthfulness of policy promises made by potential autocratic successors—impact the likelihood of elite‐driven democratization. We demonstrate the model's plausibility in a series of cases of democratic transition."
