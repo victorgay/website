@@ -1,5 +1,5 @@
 ---
-title: M1 Economic History
+title: Institutions and Long-Run Development (M2 PPD)
 
 date: "2021-01-06T13:00:00Z"
 date_end: "2021-03-18T15:00:00Z"
