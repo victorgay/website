@@ -1,5 +1,5 @@
 ---
-title: "Comment la grippe espagnole a augmenté la méfiance"
+title: "What can history teach us about Covid-19?"
 authors:
 - admin
 
