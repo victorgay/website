@@ -24,11 +24,6 @@
   weight = 30
   
 [[main]]
-  name = "Dissertation"
-  url = "#publications_dissertation"
-  weight = 40
-  
-[[main]]
  name = "Teaching"
  url = "#teaching"
  weight = 50
@@ -37,12 +32,7 @@
  name = "Teaching page"
  url = "teaching_page/"
  weight = 55
-  
-[[main]]
-  name = "Media"
-  url = "#publications_media"
-  weight = 60
-  
+ 
 [[main]]
   name = "Contact"
   url = "#contact"
