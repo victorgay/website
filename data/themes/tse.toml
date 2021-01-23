@@ -1,5 +1,5 @@
 # Theme metadata
-name = "custom"
+name = "tse"
 
 # Is theme light or dark?
 light = true
@@ -12,7 +12,7 @@ primary_dark = "#DA2536"
 # Menu
 menu_primary = "#494949"
 menu_text = "#fff"
-menu_text_active = "#328cc1"
+menu_text_active = "#071987"
 menu_title = "#fff"
 
 # Backgrounds
