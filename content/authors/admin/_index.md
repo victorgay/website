@@ -54,15 +54,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/victorgayeco
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
   icon_pack: fas
   link: https://scholar.google.com/citations?user=M-7sDJgAAAAJ
 - icon: hal
   icon_pack: ai
   link: https://cv.archives-ouvertes.fr/victor-gay
-#- icon: orcid
-#  icon_pack: ai
-#  link: http://orcid.org/0000-0001-9912-3841
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0001-9912-3841
 #- icon: publons
 #  icon_pack: ai
 #  link: https://publons.com/researcher/3256702/victor-gay/
