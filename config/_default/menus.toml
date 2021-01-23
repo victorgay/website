@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+ name = "Research"
+ url = "research_page/"
+ weight = 12
+ 
+[[main]]
   name = "Working Papers"
   url = "#publications_wp"
   weight = 15
