@@ -26,6 +26,7 @@ interests:
 - Economics of culture
 - Labor economics
 - Political economy
+- Historical data curation
 
 # Education to show in About widget
 education:
