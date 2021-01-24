@@ -1,6 +1,6 @@
 ---
-title: The Third-Republic France Geographic Information System (1870–1940)
-summary: An example of using the in-built project page.
+title: The TRF-GIS
+summary: The Third-Republic France Geographic Information System (1870–1940)
 tags:
 - Economic History
 - Historical GIS
