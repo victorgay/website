@@ -84,7 +84,7 @@ social:
   link: media/victorgay_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "victor.gay@tse-fr.eu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
