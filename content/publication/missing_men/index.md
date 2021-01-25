@@ -36,7 +36,9 @@ links:
   icon_pack: ai
   name: Article
   url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://uwpress.wisc.edu/journals/pdfs/0419-10151R1_supp.pdf
 - icon: dataverse
   icon_pack: ai
