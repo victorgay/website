@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-- icon: open-access
-  icon_pack: ai
+- icon: file-pdf
+  icon_pack: fas
   name: Article
   url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
 - icon: file-pdf
@@ -44,7 +44,9 @@ links:
   icon_pack: ai
   name: Data and Code
   url: https://doi.org/10.7910/DVN/AP1HZ8
-- name: Slides
+- icon: file-pdf
+  pack_icon: fas
+  name: Slides
   url: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Slides.pdf
 - icon: hal
   icon_pack: ai
