@@ -29,15 +29,25 @@ tags:
 featured: false
 
 links:
-- name: Article
+- icon: file-pdf
+  icon_pack: fas
+  name: Article
   url: "gay_etal_2018_reho.pdf"
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523099/file/gay_etal_2018_reho_appendix.pdf
-- name: Data and Code
+- icon: dataverse
+  icon_pack: ai
+  name: Data and Code
   url: https://doi.org/10.7910/DVN/XIFPS5
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523099
-- name: DOI
+- icon: doi
+  icon_pack: ai
+  name: DOI
   url: https://doi.org/10.1007/s11150-017-9369-x
 url_project: ''
 url_slides: ''
