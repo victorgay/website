@@ -42,7 +42,7 @@ links:
   name: HAL
   url: https://hal.archives-ouvertes.fr/tel-02523134
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: Video
   url: https://www.youtube.com/watch?v=sFUnM2H5WVo&feature=emb_logo
 url_slides: ''
