@@ -25,15 +25,25 @@ tags:
 featured: false
 
 links:
-- name: Dissertation
+- icon: file-pdf
+  icon_pack: fas
+  name: Dissertation
   url: https://hal.archives-ouvertes.fr/tel-02523134
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://hal.archives-ouvertes.fr/tel-02523134/file/appendix_c.pdf
-- name: Data appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Data Appendix
   url: https://hal.archives-ouvertes.fr/tel-02523134/file/appendix_d.pdf
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/tel-02523134
-- name: Video
+- icon: youtube
+  icon_pack: fas
+  name: Video
   url: https://www.youtube.com/watch?v=sFUnM2H5WVo&feature=emb_logo
 url_slides: ''
 url_source: ''
