@@ -100,6 +100,10 @@ highlight_name: false
 
 **Principal investigator** ANR grant ObARDI 2021-2025 (ANR-20-CE38-0015)
 
+**Academic event organizer (2020-2021)""
+
+- TSE's [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Seminar](https://www.tse-fr.eu/groups/behavior-institutions-and-development?tabs=5) and [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Workshop](https://sites.google.com/site/iebtse/) (with [A. Tapsoba](https://sites.google.com/view/augustintapsoba/home))
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/victorgay_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
