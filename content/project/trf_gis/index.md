@@ -18,6 +18,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: dataverse
+  icon_pack: ai
+  name: TRF-GIS Dataverse
+  url: https://dataverse.harvard.edu/dataverse/TRF-GIS
 - icon: file-pdf
   icon_pack: fas
   name: Data Paper
@@ -26,10 +30,6 @@ links:
   pack_icon: fas
   name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02951461/file/gay_2020_mapping_third_republic_supplementary_information.pdf
-- icon: dataverse
-  icon_pack: ai
-  name: TRF-GIS Dataverse
-  url: https://dataverse.harvard.edu/dataverse/TRF-GIS
 - icon: hal
   icon_pack: ai
   name: HAL
