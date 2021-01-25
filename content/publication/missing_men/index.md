@@ -36,13 +36,19 @@ links:
   url: http://jhr.uwpress.org/content/early/2020/06/05/jhr.57.4.0419-10151R1.full.pdf
 - name: Appendix
   url: https://uwpress.wisc.edu/journals/pdfs/0419-10151R1_supp.pdf
-- name: Data and Code
+- icon: dataverse
+  icon_pack: ai
+  name: Data and Code
   url: https://doi.org/10.7910/DVN/AP1HZ8
 - name: Slides
   url: https://hal.archives-ouvertes.fr/hal-02523127v2/file/Boehnke%20and%20Gay%20%282020%29%20Slides.pdf
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523127
-- name: DOI
+- icon: doi
+  icon_pack: ai
+  name: DOI
   url: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
 url_project: ''
 url_slides: ''
