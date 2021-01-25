@@ -102,7 +102,7 @@ highlight_name: false
 
 **Academic event organizer (2020-2021)**
 
-- TSE's [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Seminar](https://www.tse-fr.eu/groups/behavior-institutions-and-development?tabs=5) and [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Workshop](https://sites.google.com/site/iebtse/) (with [A. Tapsoba](https://sites.google.com/view/augustintapsoba/home))
+- TSE [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Seminar](https://www.tse-fr.eu/groups/behavior-institutions-and-development?tabs=5) and [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Workshop](https://sites.google.com/site/iebtse/) (with [A. Tapsoba](https://sites.google.com/view/augustintapsoba/home))
 - IAST [Epistemology Workshop](https://www.iast.fr/conferences/2021-what-are-we-doing-doing-research-interdisciplinary-perspective) (with [M. Derex](https://maximederex.weebly.com/))
 - [Big Data in Economic History Conference](https://www.iast.fr/conferences/2021-big-data-economic-history-conference) (with [M. Saleh](https://sites.google.com/site/mohamedsalehecon/home))
 - [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences) (with [J. Peña](https://jorgeapenas.wordpress.com/))
