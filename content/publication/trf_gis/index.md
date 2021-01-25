@@ -23,13 +23,21 @@ tags:
 featured: false
 
 links:
-- name: Working Paper
+- icon: file-pdf
+  icon_pack: fas
+  name: Working Paper
   url: https://hal.archives-ouvertes.fr/hal-02951461
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02951461/file/gay_2020_mapping_third_republic_supplementary_information.pdf
-- name: TRF-GIS Dataverse
+- icon: dataverse
+  icon_pack: ai
+  name: TRF-GIS Dataverse
   url: https://dataverse.harvard.edu/dataverse/TRF-GIS
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02951461
 url_project: ''
 url_slides: ''
