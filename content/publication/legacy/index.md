@@ -25,13 +25,21 @@ tags:
 featured: false
 
 links:
-- name: Working Paper
+- icon: file-pdf
+  icon_pack: fas
+  name: Working Paper
   url: https://hal.archives-ouvertes.fr/hal-02523129
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523129v2/file/gay_2021_appendix.pdf
-- name: Data appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Data Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523129v2/file/gay_2021_appendix_data.pdf
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523129
 url_project: ''
 url_slides: ''
