@@ -26,15 +26,25 @@ tags:
 featured: false
 
 links:
-- name: Article
+- icon: file-pdf
+  icon_pack: fas
+  name: Article
   url: "albertus_gay_2019_ecpo.pdf"
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523101/file/albertus_gay_2018_ecpo_appendix.pdf
-- name: Data and Code
+- icon: dataverse
+  icon_pack: ai
+  name: Data and Code
   url: https://doi.org/10.7910/DVN/SS3RF6
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523101
-- name: DOI
+- icon: doi
+  icon_pack: ai
+  name: DOI
   url: https://dx.doi.org/10.1111/ecpo.12120
 url_project: ''
 url_slides: ''
