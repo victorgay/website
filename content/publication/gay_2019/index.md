@@ -24,9 +24,13 @@ featured: false
 links:
 - name: Book review
   url: https://eh.net/book_reviews/gambling-on-war-confidence-fear-and-the-tragedy-of-the-first-world-war/
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02524006
-- name: Book
+- icon: doi
+  icon_pack: ai
+  name: Book
   url: https://doi.org/10.1017/9781108600101
 url_slides: ''
 url_source: ''
