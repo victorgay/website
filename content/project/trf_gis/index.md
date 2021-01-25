@@ -14,7 +14,7 @@ date: "2020-10-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: General administrative constituencies in 1871 (départements, arrondissements, cantons)
+  caption: "General administrative constituencies in 1871     "
   focal_point: Smart
 
 links:
