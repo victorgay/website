@@ -29,11 +29,17 @@ tags:
 featured: false
 
 links:
-- name: Article
+- icon: file-pdf
+  icon_pack: fas
+  name: Article
   url: "gay_etal_2013_ael.pdf"
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523093
-- name: DOI
+- icon: doi
+  icon_pack: ai
+  name: DOI
   url: https://doi.org/10.1080/13504851.2012.714062
 - name: VOXeu
   url: https://voxeu.org/article/language-matters-gender-grammar-and-observed-gender-discrimination
