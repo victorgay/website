@@ -31,9 +31,13 @@ tags:
 featured: false
 
 links:
-- name: Working paper
+- icon: file-pdf
+  icon_pack: fas
+  name: Working Paper
   url: "10.1.1.393.1923.pdf"
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523093
 url_project: ''
 url_slides: ''
