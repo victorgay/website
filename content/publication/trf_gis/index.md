@@ -26,7 +26,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Working Paper
-  url: https://hal.archives-ouvertes.fr/hal-02951461
+  url: https://hal.archives-ouvertes.fr/hal-02951461/document
 - icon: file-pdf
   pack_icon: fas
   name: Appendix
