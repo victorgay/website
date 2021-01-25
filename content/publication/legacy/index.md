@@ -28,7 +28,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Working Paper
-  url: https://hal.archives-ouvertes.fr/hal-02523129
+  url: https://hal.archives-ouvertes.fr/hal-02523129v2/document
 - icon: file-pdf
   pack_icon: fas
   name: Appendix
