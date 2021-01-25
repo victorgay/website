@@ -29,9 +29,13 @@ tags:
 featured: false
 
 links:
-- name: Conference proceeding
+- icon: file-pdf
+  icon_pack: fas
+  name: Conference Proceeding
   url: https://hal.archives-ouvertes.fr/hal-02523115/document
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523115
 - name: Conference
   url: http://evolang.org/neworleans/papers/120.html
