@@ -29,11 +29,17 @@ tags:
 featured: false
 
 links:
-- name: Book chapter
+- icon: file-pdf
+  icon_pack: fas
+  name: Book Chapter
   url: https://hal.archives-ouvertes.fr/hal-02523125/document
-- name: Appendix
+- icon: file-pdf
+  pack_icon: fas
+  name: Appendix
   url: https://hal.archives-ouvertes.fr/hal-02523125/file/language_historical_appendix_2016.pdf
-- name: HAL
+- icon: hal
+  icon_pack: ai
+  name: HAL
   url: https://hal.archives-ouvertes.fr/hal-02523125
 - name: Book
   url: https://www.edicusano.it/prodotto/i-mondi-delle-donne/
