@@ -77,13 +77,6 @@ social:
 #  icon_pack: ai
 #  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2662864 
   
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/victorgay_cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "victor.gay@tse-fr.eu"
 
@@ -107,7 +100,7 @@ highlight_name: false
 - [Big Data in Economic History Conference](https://www.iast.fr/conferences/2021-big-data-economic-history-conference) (with [M. Saleh](https://sites.google.com/site/mohamedsalehecon/home))
 - [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences) (with [J. Peña](https://jorgeapenas.wordpress.com/))
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/victorgay_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/victorgay_cv.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
 
 
 <div style="text-align: right"> Last updated: January 2021 </div> 
