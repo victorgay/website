@@ -19,6 +19,8 @@ publication_short: ""
 
 abstract: "Understanding the causes and consequences of language evolution in relation to social factors is challenging as we generally lack a clear picture of how languages coevolve with historical social processes. Research analyzing the relation between language and socioeconomic factors relies on contemporaneous data. Because of this, such analysis may be plagued by spurious correlation concerns coming from the historical co-evolution and dependency of the relationship between language and behavior to the institutional environment. To solve this problem, we propose migrations to the same country as a microevolutionary step that may uncover constraints on behavior. We detail strategies available to other researchers by applying the epidemiological approach to study the correlation between sex-based gender distinctions and female labor force participation. Our main finding is that language must have evolved partly as a result of cultural change, but also that it may have directly constrained the evolution of norms. We conclude by discussing implications for the coevolution of language and behavior, and by comparing different methodological approaches."
 
+summary: "Discusses how the epidemiological approach enables to identify the relationship between sex-based gender distinctions in language and female labor force participation."
+
 tags:
 - Economics of culture
 - Labor economics
