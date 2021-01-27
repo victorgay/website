@@ -17,7 +17,9 @@ publication_types: ["0"]
 publication: "Berkeley Economic History Laboratory Working Paper 2013-03"
 publication_short: ""
 
-abstract: "We investigate the relation between gender marking in grammar and female participationin the labor market, the credit market, land ownership, and politics. Cross-country and individual-level analyses reveal that women speaking languages that more pervasively markgender distinctions are less likely to participate in economic and political life and more likelyto encounter barriers in their access to land and credit. These findings are robust to a largeset of controls and robustness checks. We also found that the impact of a language's genderstructure remains after controlling for culture, for historical agricultural use of the plough."
+abstract: "We investigate the relation between gender marking in grammar and female participationin the labor market, the credit market, land ownership, and politics. Cross-country and individual-level analyses reveal that women speaking languages that more pervasively mark gender distinctions are less likely to participate in economic and political life and more likely to encounter barriers in their access to land and credit. These findings are robust to a largeset of controls and robustness checks. We also found that the impact of a language's gender structure remains after controlling for culture, for historical agricultural use of the plough."
+
+summary: "Women speaking languages that more pervasively mark gender distinctions are less likely to participate in economic and political life, and more likely to encounter barriers in their access to land and credit."
 
 # Summary. An optional shortened abstract.
 
