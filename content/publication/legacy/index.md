@@ -13,6 +13,9 @@ publication_types: ["3"]
 
 abstract: "This paper explores the pathways that underlie the diffusion of women’s participation in the labor force across generations. I exploit a severe exogenous shock to the sex ratio, World War I in France, which generated a large inflow of women in the labor force after the war. I show that this shock to female labor transmitted to subsequent generations until today. Three mechanisms of intergenerational transmission account for this result: parental transmission, transmission through marriage, and transmission through local social interactions. Beyond behaviors, the war also permanently altered beliefs toward the role of women in the labor force."
 
+summary: "The interwar inflow of women in the labor force due to WWI persisted until today through intergenerational transmission mechanisms."
+
+
 tags:
 - Economic history
 - Labor economics
