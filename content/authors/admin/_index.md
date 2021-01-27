@@ -80,7 +80,7 @@ I am interested in various topics in [economic history](https://victorgay.netlif
 
 <div style="float: left">{{< icon name="download" pack="fas" >}} {{< staticref "media/victorgay_cv.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}</div>
     
-
+\vspace{10cm}
 
 {{< icon name="graduation-cap" pack="fas" >}} PhD in Economics, The University of Chicago, 2018
 
