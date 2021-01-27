@@ -15,6 +15,8 @@ publication_types: ["0"]
 publication: "Cambridge: Cambridge University Press. Reviewed for EH.net"
 publication_short: ""
 
+summary: "Book review."
+
 tags:
 - Economics history
 - World War I
