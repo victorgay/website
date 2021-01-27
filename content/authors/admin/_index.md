@@ -69,6 +69,8 @@ highlight_name: false
 
 **Principal investigator** ANR grant ObARDI 2021-2025 (ANR-20-CE38-0015)
 
+I am interested in various topics in [economic history](https://victorgay.netlify.app/tag/economic-history/)
+
 **Academic event organizer (2020-2021)**
 
 - TSE [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Seminar](https://www.tse-fr.eu/groups/behavior-institutions-and-development?tabs=5) and [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Workshop](https://sites.google.com/site/iebtse/) (with [A. Tapsoba](https://sites.google.com/view/augustintapsoba/home))
