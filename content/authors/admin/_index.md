@@ -19,31 +19,7 @@ organizations:
   
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant professor at Toulouse School of Economics (TSE) and at the Institute for Advanced Study in Toulouse (IAST), University of Toulouse 1 Capitole.
-
-# Interests to show in About widget
-interests:
-- Economic history
-- Economics of culture
-- Labor economics
-- Political economy
-- Historical data curation
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Economics
-    institution: The University of Chicago
-    year: 2018
-  - course: Master in Economics
-    institution: The University of Chicago
-    year: 2013
-  - course: Master in Economics
-    institution: University of Cergy (THEMA)
-    year: 2012
-  - course: MBA
-    institution: ESSEC Business School
-    year: 2012
-    
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
