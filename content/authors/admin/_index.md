@@ -100,6 +100,8 @@ highlight_name: false
 - [Big Data in Economic History Conference](https://www.iast.fr/conferences/2021-big-data-economic-history-conference) (with [M. Saleh](https://sites.google.com/site/mohamedsalehecon/home))
 - [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences) (with [J. Peña](https://jorgeapenas.wordpress.com/))
 
-<div style="float: left">{{< icon name="download" pack="fas" >}} {{< staticref "media/victorgay_cv.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}</div>. <div style="text-align: right"> Last updated: January 2021 </div> 
+<div style="float: left">{{< icon name="download" pack="fas" >}} {{< staticref "media/victorgay_cv.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}</div>.
 
 <div style="float: left">{{< icon name="graduation-cap" pack="fas" >}} PhD in Economics, The University of Chicago, 2018
+
+
