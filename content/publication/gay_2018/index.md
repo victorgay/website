@@ -15,6 +15,7 @@ publication_types: ["7"]
 publication: "Defended at the Department of Economics of the University of Chicago. Committee: Richard Hornbeck (chair), Steven D. Levitt, Derek A. Neal, and James A. Robinson."
 publication_short: ""
 
+summary: "Dissertation defented at the Departement of Economics of the University of Chicago in Spring 2018."
 tags:
 - Economics history
 - Labor economics
