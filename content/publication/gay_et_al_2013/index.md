@@ -19,6 +19,8 @@ publication_short: ""
 
 abstract: "This article studies the determinants of gender political quota and enforcement sanctions, two key policy instruments for increasing female participation in politics. We find a novel empirical fact: language (the pervasiveness of gender distinctions in grammar) is the most significant related variable to quota adoption, more than traditional explanations such as economic development, political system and religion."
 
+summary: "The pervasiveness of gender distinctions in grammar is strongly correlated with gender quotas adoption."
+
 # Summary. An optional shortened abstract.
 
 tags:
