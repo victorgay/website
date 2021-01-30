@@ -15,8 +15,10 @@ tags: []
 featured: false
 
 links:
-- name: Slides
-  url: https://hal.archives-ouvertes.fr/hal-02931899v2
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides
+  url: https://hal.archives-ouvertes.fr/hal-02931899v2/document
 url_code: ""
 url_pdf: ""
 url_slides: ""
