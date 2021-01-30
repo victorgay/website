@@ -12,9 +12,13 @@ tags: []
 featured: false
 
 links:
-- name: Syllabus
+- icon: file-pdf
+  icon_pack: fas
+  name: Syllabus
   url: "m2_s2_institutions_and_long_run_development_gay_victor.pdf"
-- name: Slides coming soon
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides coming soon
   url: 
 url_code: ""
 url_pdf: ""
