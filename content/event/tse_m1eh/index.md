@@ -12,9 +12,13 @@ tags: []
 featured: false
 
 links:
-- name: Syllabus
+- icon: file-pdf
+  icon_pack: fas
+  name: Syllabus
   url: "Economic_History_M1_S1_2020_2021_TSE_Syllabus.pdf"
-- name: Slides coming soon
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides coming soon
   url: 
 url_code: ""
 url_pdf: ""
