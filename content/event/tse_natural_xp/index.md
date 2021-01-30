@@ -12,9 +12,13 @@ tags: []
 featured: false
 
 links:
-- name: Syllabus
-  url: "History_DEEQA_S2 2020-2021 TSE Syllabus.pdf"
-- name: Slides coming soon
+- icon: file-pdf
+  icon_pack: fas
+  name: Syllabus
+  url: "History_DEEQA_S2_2020_2021_TSE_Syllabus.pdf"
+- icon: file-pdf
+  icon_pack: fas
+  name: Slides coming soon
   url: 
 url_code: ""
 url_pdf: ""
