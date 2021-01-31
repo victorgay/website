@@ -1,5 +1,5 @@
 ---
-title: WWI MPF
+title: The WWI MPF Database
 summary: The World War I military fatalities database
 tags:
 - Economic History
