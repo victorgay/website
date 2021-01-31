@@ -67,7 +67,7 @@ highlight_name: false
 
 <!--- During the academic year 2020-2021, I am the organizer of TSE's [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Seminar](https://www.tse-fr.eu/groups/behavior-institutions-and-development?tabs=5) and [BID](https://www.tse-fr.eu/groups/behavior-institutions-and-development) [Workshop](https://sites.google.com/site/iebtse/) (with [A. Tapsoba](https://sites.google.com/view/augustintapsoba/home)), of the IAST [Epistemology Workshop](https://www.iast.fr/conferences/2021-what-are-we-doing-doing-research-interdisciplinary-perspective) (with [M. Derex](https://maximederex.weebly.com/)), of the [Big Data in Economic History Conference](https://www.iast.fr/conferences/2021-big-data-economic-history-conference) (with [M. Saleh](https://sites.google.com/site/mohamedsalehecon/home)), and of the [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences) (with [J. Peña](https://jorgeapenas.wordpress.com/)). --->
 
-**Principal investigator** ANR grant ObARDI 2021-2025 (ANR-20-CE38-0015)
+**Principal investigator** ANR grant ObARDI 2021-2025 ([ANR-20-CE38-0015](https://www.tse-fr.eu/obardi))
 
 I am interested in various topics in [economic history](https://victorgay.netlify.app/tag/economic-history/)
 
