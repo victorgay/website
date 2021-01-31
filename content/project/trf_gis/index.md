@@ -39,3 +39,5 @@ links:
 ---
 
 The TRF-GIS is a comprehensive geographic information system of Third-Republic France. It provides annual nomenclatures and shapefiles of administrative constituencies of metropolitan France from 1870 to 1940, encompassing general administrative constituencies (départements, arrondissements, cantons) as well as the most significant special administrative constituencies: military, judicial and penitentiary, electoral, academic, labor inspection, and ecclesiastical constituencies. It further proposes annual nomenclatures at the contemporaneous commune level that map each municipality into its corresponding administrative framework along with its population count. The 901 nomenclatures, 830 shapefiles, and complete reproduction material along with primary sources of the TRF-GIS database are available at https://dataverse.harvard.edu/dataverse/TRF-GIS. The data paper describing the TRF-GIS is available at https://hal.archives-ouvertes.fr/hal-02951461/document.
+
+This dataset is used in [Boehnke and Gay (2020)](https://victorgay.netlify.app/publication/missing_men/) and in [Gay (2021)](https://victorgay.netlify.app/publication/legacy/).
