@@ -13,28 +13,15 @@ date: "2020-06-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "General administrative constituencies in 1871     "
+  caption: "MPF record of François Delbrut. Source: Ministère des Armées - Mémoire des Hommes"
   focal_point: Smart
 
 links:
 - icon: dataverse
   icon_pack: ai
-  name: TRF-GIS Dataverse
-  url: https://dataverse.harvard.edu/dataverse/TRF-GIS
-- icon: file-pdf
-  icon_pack: fas
-  name: Data Paper
-  url: https://hal.archives-ouvertes.fr/hal-02951461/document
-- icon: file-pdf
-  pack_icon: fas
-  name: Appendix
-  url: https://hal.archives-ouvertes.fr/hal-02951461/file/gay_2020_mapping_third_republic_supplementary_information.pdf
-- icon: hal
-  icon_pack: ai
-  name: HAL
-  url: https://hal.archives-ouvertes.fr/hal-02951461
-
+  name: Data
+  url: https://doi.org/10.7910/DVN/AP1HZ8
 
 ---
 
-The TRF-GIS is a comprehensive geographic information system of Third-Republic France. It provides annual nomenclatures and shapefiles of administrative constituencies of metropolitan France from 1870 to 1940, encompassing general administrative constituencies (départements, arrondissements, cantons) as well as the most significant special administrative constituencies: military, judicial and penitentiary, electoral, academic, labor inspection, and ecclesiastical constituencies. It further proposes annual nomenclatures at the contemporaneous commune level that map each municipality into its corresponding administrative framework along with its population count. The 901 nomenclatures, 830 shapefiles, and complete reproduction material along with primary sources of the TRF-GIS database are available at https://dataverse.harvard.edu/dataverse/TRF-GIS. The data paper describing the TRF-GIS is available at https://hal.archives-ouvertes.fr/hal-02951461/document.
+The World War I military fatalities database is a structured database of the Morts pour la France (Dead for France) records of the 1.3 million French soldiers who died due to the war. The archival material of this database is available on the [Mémoire des Hommes](https://www.memoiredeshommes.sga.defense.gouv.fr/fr/article.php?larub=24&titre=morts-pour-la-france-de-la-premiere-guerre-mondiale) web platform maintained by the Ministry of Defense. The military deaths data used to compute département-level military death rates used in [Boehnke and Gay (2020)](https://victorgay.netlify.app/publication/missing_men/) and in [Gay (2021)](https://victorgay.netlify.app/publication/legacy/) is available in the following dataverse: https://doi.org/10.7910/DVN/AP1HZ8. A comprehensive structured database will be soon available.
