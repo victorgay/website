@@ -69,7 +69,7 @@ highlight_name: false
 
 **Principal investigator** ANR grant ObARDI 2021-2025 ([ANR-20-CE38-0015](https://www.tse-fr.eu/obardi))
 
-I am interested in various topics in [economic history](https://victorgay.netlify.app/tag/economic-history/)
+My research is at the cross-road of [economic history](https://victorgay.netlify.app/tag/economic-history/), [labor economics](https://victorgay.netlify.app/tag/labor-economics/), and the [economics of culture](https://victorgay.netlify.app/tag/economics-of-culture/). I focus primarily on the economic history of [France](https://victorgay.netlify.app/tag/France/), and develop data infrastructures based on novel archival material.
 
 **Academic event organizer (2020-2021)**
 
