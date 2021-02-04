@@ -18,8 +18,8 @@ links:
   url: "Economic_History_M1_S1_2020_2021_TSE_Syllabus.pdf"
 - icon: file-pdf
   icon_pack: fas
-  name: Slides coming soon
-  url: 
+  name: Slide
+  url: https://hal.archives-ouvertes.fr/hal-02940950v2/document
 url_code: ""
 url_pdf: ""
 url_slides: ""
