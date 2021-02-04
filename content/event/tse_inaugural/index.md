@@ -19,6 +19,10 @@ links:
   icon_pack: fas
   name: Slides
   url: https://hal.archives-ouvertes.fr/hal-02931899v2/document
+- icon: hal
+  icon_pack: ai
+  name: HAL
+  url: https://hal.archives-ouvertes.fr/hal-02931899v2
 url_code: ""
 url_pdf: ""
 url_slides: ""
