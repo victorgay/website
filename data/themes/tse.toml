@@ -3,12 +3,11 @@ name = "tse"
 
 # Is theme light or dark?
 light = true
-dark = false
 
 # Primary
 primary = "#071987"
 primary_light = "#071987"
-primary_dark = "#071987"
+primary_dark = "#075e87"
 
 # Menu
 menu_primary = "#071987"
