@@ -3,6 +3,7 @@ name = "tse"
 
 # Is theme light or dark?
 light = true
+dark = false
 
 # Primary
 primary = "#071987"
