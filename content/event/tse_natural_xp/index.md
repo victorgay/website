@@ -18,8 +18,12 @@ links:
   url: "History_DEEQA_S2_2020_2021_TSE_Syllabus.pdf"
 - icon: file-pdf
   icon_pack: fas
-  name: Slides coming soon
-  url: 
+  name: Slide
+  url: https://hal.archives-ouvertes.fr/hal-03154292/document
+- icon: hal
+  icon_pack: ai
+  name: HAL
+  url: https://hal.archives-ouvertes.fr/hal-03154292
 url_code: ""
 url_pdf: ""
 url_slides: ""
