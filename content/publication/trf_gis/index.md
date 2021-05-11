@@ -36,7 +36,7 @@ links:
 - icon: file-pdf
   pack_icon: fas
   name: Appendix
-  url: https://hal.archives-ouvertes.fr/hal-02951461/file/gay_2020_mapping_third_republic_supplementary_information.pdf
+  url: https://hal.archives-ouvertes.fr/hal-02951461v2/file/gay_2021_appendix.pdf
 - icon: dataverse
   icon_pack: ai
   name: TRF-GIS Dataverse
