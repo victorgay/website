@@ -56,6 +56,8 @@ links:
   icon_pack: ai
   name: DOI
   url: https://dx.doi.org/10.3368/jhr.57.4.0419-10151R1
+- name: Blog
+  url: https://uwpress.wisc.edu/jhr-news/?p=930
 url_project: ''
 url_slides: ''
 url_source: ''
