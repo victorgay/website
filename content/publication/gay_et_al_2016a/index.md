@@ -14,7 +14,7 @@ date: "2016-03-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In P. Paolini (Ed.), *I Mondi Delle Donne*, 165-79. Roma: Edi Cusano."
+publication: "In P. Paolini (Ed.), *I Mondi Delle Donne*, 165-79. Roma: Edi Cusano"
 publication_short: ""
 
 abstract: "Our paper investigates whether historical trends in the labor market participation of immigrant women in the U.S. can be explained in part by variation in the grammatical structure of their language spoken. Using individual-level census data on the labor market behavior of first generation immigrants to the U.S. from 1910 to the present, we show that the presence or absence of grammatical gender in the linguistic structure of a language spoken by an immigrant influences sex-specific behaviors. The originality of our approach is to consider language as a repository for accumulated ancestral culture in an epidemiological framework. Because female labor force participation has greatly increased, institutions have transformed, and motivations and compositions of immigrant flows have changed, studying a long time horizon allows us to more clearly isolate the role of linguistic structure as a cultural institution."
