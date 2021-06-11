@@ -48,6 +48,8 @@ links:
   icon_pack: ai
   name: DOI
   url: https://doi.org/10.1111/ajps.12277
+- name: Blog
+  url: https://ajps.org/2016/09/22/unlikely-democrats/
 url_project: ''
 url_slides: ''
 url_source: ''
